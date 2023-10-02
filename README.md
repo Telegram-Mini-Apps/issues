@@ -15,7 +15,7 @@ So, here is the workflow,
 `@tma.js` packages, but developer can still use SDK from Telegram.
 
 2. While it's not mandatory, it's also appreciated by the community to create an issue ticket in the Telegram application
-Github repository you could find in the next section. Don't forget to add `[Mini Apps]` prefix in title and reference issue
+GitHub repository you could find in the next section. Don't forget to add `[Mini Apps]` prefix in title and reference issue
 created here in Telegram repo, so other developers could see the connection.
 
 ## Telegram applications GitHub
@@ -28,6 +28,7 @@ fixed:
 - [Telegram for macOS](https://github.com/overtake/TelegramSwift)
 - [Telegram Desktop](https://github.com/telegramdesktop/tdesktop)
 - [Telegram Web A](https://github.com/Ajaxy/telegram-tt)
+- [Telegram Web K](https://github.com/morethanwords/tweb)
 
 ## Disclaimer
 

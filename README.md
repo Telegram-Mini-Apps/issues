@@ -33,4 +33,4 @@ fixed:
 ## Disclaimer
 
 Not to disappoint the developers community, this repository does not belong to the Telegram team, or affiliated with it. 
-This repository was created by an external developer who aims to improve the platform but is not affiliated with the Telegram team.
+This repository was created by an external developer who aims to improve the platform.

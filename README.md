@@ -3,6 +3,9 @@
 The main purpose of this repository is to provide a single source of platform reports and enhancement proposals.
 Developers should use it to report found bugs, find compromise solutions and offer platform enhancements.
 
+> ⚠️ In case, you would like to report an issue related to `@tma.js` packages, please, create it in the connected [repository](https://github.com/Telegram-Mini-Apps/tma.js/issues).
+> This repository is only related to the platform bugs and enhancements.
+
 ## How it works
 
 It's important to note that the Telegram team is unlikely to monitor this repository, so the team surely would 
